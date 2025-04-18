@@ -28,13 +28,7 @@ Build a digital pet that can eat, sleep, play, and learn tricks! The project hel
 - `train(trick)`: 🎓 - Teaches a new trick, adds it to a list, boosts happiness
 - `show_tricks()`: 🧠 - Lists all learned tricks
 
-## 🚀 How to Run
-
-1. Clone or download this repo.
-2. Run `main.py`:
-   ```bash
-   python main.py
-
+SAMPLE OUTPUT
 
 Creating pet: Max 🐶
 Max is eating... 🍽️
@@ -45,6 +39,12 @@ Max is learning a new trick: play dead 🎓
 Max has learned the following tricks: 🧠
 - roll over
 - play dead
+
+Max's current status:
+Hunger: 2
+Energy: 8
+Happiness: 9
+Tricks: ['roll over', 'play dead']
 
 Max's current status:
 Hunger: 2
